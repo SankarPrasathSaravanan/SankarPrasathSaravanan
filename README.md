@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @SankarPrasathSaravanan<br>👀 I’m interested in Frontend Developer and Database Creation<br>🌱 I’m currently learning MongoDB<br>📫 How to reach me ssankarprasath33@gmail.com
+👋 Hi, I’m @SankarPrasathSaravanan<br>👀 I’m interested in Frontend Developer and Database Creation<br>🌱 I’m currently learning MongoDB, maven and junit<br>📫 How to reach me ssankarprasath33@gmail.com
 
 
 ## 🌐 Socials:
